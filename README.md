@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, travelling
 - 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on open end technologies
-- 📫 How to reach me -> tapaskumar.in
+- 📫 How to reach me -> https://www.tapaskumar.in
 
 <!---
 tapaskumar05/tapaskumar05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
